@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tamplate_React/static/css/main.837fd75f.css",
+    "main.js": "/Tamplate_React/static/js/main.481d26bc.js",
+    "static/js/787.060bca6a.chunk.js": "/Tamplate_React/static/js/787.060bca6a.chunk.js",
+    "static/media/opshag.jpeg": "/Tamplate_React/static/media/opshag.aaf9a38a6fc75f227697.jpeg",
+    "static/media/jampa.jpeg": "/Tamplate_React/static/media/jampa.90c26cc8682c2916a77e.jpeg",
+    "static/media/qaxcr.jpeg": "/Tamplate_React/static/media/qaxcr.26443c2fcd19d92d1240.jpeg",
+    "static/media/pat.jpeg": "/Tamplate_React/static/media/pat.2875129b171268d65637.jpeg",
+    "static/media/dzi.jpeg": "/Tamplate_React/static/media/dzi.5bb05275c75f47bfd513.jpeg",
+    "static/media/cov.jpeg": "/Tamplate_React/static/media/cov.a603a6da2d7dcb069a17.jpeg",
+    "static/media/buys.jpeg": "/Tamplate_React/static/media/buys.e0891fd4ee55d7ff84c8.jpeg",
+    "static/media/dur.jpeg": "/Tamplate_React/static/media/dur.2eba82a5c877d5570839.jpeg",
+    "static/media/taxsi.webp": "/Tamplate_React/static/media/taxsi.3af898856e399b94bae7.webp",
+    "static/media/caxik.webp": "/Tamplate_React/static/media/caxik.c7109eae53e896750356.webp",
+    "static/media/bajak.webp": "/Tamplate_React/static/media/bajak.f171a9dcfb87f67d1674.webp",
+    "index.html": "/Tamplate_React/index.html",
+    "main.837fd75f.css.map": "/Tamplate_React/static/css/main.837fd75f.css.map",
+    "main.481d26bc.js.map": "/Tamplate_React/static/js/main.481d26bc.js.map",
+    "787.060bca6a.chunk.js.map": "/Tamplate_React/static/js/787.060bca6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837fd75f.css",
+    "static/js/main.481d26bc.js"
+  ]
+}
